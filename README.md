@@ -1,2 +1,2 @@
 # Scratchpad
-a place to play around with
+this is my place to play around with
