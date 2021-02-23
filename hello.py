@@ -1,7 +1,8 @@
 
-print ('Hello world')
 
 if __name__ == '__main__':
+        print ('Hello world')
+    
     # Created by: James Mertz
     with open('01_random.txt') as reader:
         counts = dict()
